@@ -25,7 +25,11 @@
       </file>
       <file leaf-file-name="b.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -37,6 +41,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/b.txt" />
       </list>
     </option>
   </component>
@@ -114,6 +119,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -149,7 +155,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/b.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
